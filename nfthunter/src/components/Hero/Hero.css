@@ -1,0 +1,13 @@
+.hero-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: space-around;
+  justify-content: space-around;
+}
+/* .game-info {
+  flex: 1;
+}
+.hero-pic {
+  flex: auto;
+} */
